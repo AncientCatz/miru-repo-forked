@@ -37,6 +37,19 @@
   "webSite": "https://jimov-api.vercel.app/"
  },
  {
+  "author": "appdevelpo",
+  "icon": "https://animepahe.ru/pikacon.ico",
+  "lang": "en",
+  "license": "MIT",
+  "name": "Animepahe",
+  "nsfw": "false",
+  "package": "animepahe.ru",
+  "type": "bangumi",
+  "url": "animepahe.ru.js",
+  "version": "v0.0.1",
+  "webSite": "https://animepahe.ru"
+ },
+ {
   "author": "anishi7",
   "icon": "https://bestlightnovel.com/themes/home/images/favicon.png",
   "lang": "en",
@@ -124,6 +137,18 @@
  },
  {
   "author": "OshekharO",
+  "icon": "https://dramacool.pa/images/mobi/logo.png",
+  "lang": "en",
+  "license": "MIT",
+  "name": "DramaCool",
+  "package": "dramacool.pa",
+  "type": "bangumi",
+  "url": "dramacool.pa.js",
+  "version": "v0.0.1",
+  "webSite": "https://api.consumet.org/movies/dramacool"
+ },
+ {
+  "author": "OshekharO",
   "icon": "https://flixhq.ws/images/logo.png",
   "lang": "all",
   "license": "MIT",
@@ -131,7 +156,7 @@
   "package": "flixhq.to",
   "type": "bangumi",
   "url": "flixhq.to.js",
-  "version": "v0.0.1",
+  "version": "v0.0.2",
   "webSite": "https://anipuff-consumet.vercel.app/movies/flixhq"
  },
  {
@@ -143,7 +168,7 @@
   "package": "gogo.anime",
   "type": "bangumi",
   "url": "gogo.anime.js",
-  "version": "v0.0.1",
+  "version": "v0.0.2",
   "webSite": "https://api.consumet.org/anime/gogoanime"
  },
  {
@@ -193,8 +218,45 @@
   "package": "isekaiscan.to",
   "type": "manga",
   "url": "isekaiscan.to.js",
-  "version": "v0.0.2",
+  "version": "v0.0.3",
   "webSite": "https://m.isekaiscan.to"
+ },
+ {
+  "author": "OshekharO",
+  "icon": "https://javhd.today/android-icon-192x192.png",
+  "lang": "jp",
+  "license": "MIT",
+  "name": "JavHD",
+  "nsfw": "true",
+  "package": "javhd.today",
+  "type": "bangumi",
+  "url": "javhd.today.js",
+  "version": "v0.0.1",
+  "webSite": "https://javhd.today"
+ },
+ {
+  "author": "OshekharO",
+  "icon": "https://www.juxiaoshuo.net/images/nocover.png",
+  "lang": "zh-cn",
+  "license": "MIT",
+  "name": "聚小说",
+  "package": "juxiaoshuo",
+  "type": "fikushon",
+  "url": "juxiaoshuo.js",
+  "version": "v0.0.1",
+  "webSite": "https://www.juxiaoshuo.net"
+ },
+ {
+  "author": "OshekharO",
+  "icon": "https://kimcartoon.li/Content/images/favicon.ico",
+  "lang": "en",
+  "license": "MIT",
+  "name": "KimCartoon",
+  "package": "kimcartoon.li",
+  "type": "bangumi",
+  "url": "kimcartoon.li.js",
+  "version": "v0.0.1",
+  "webSite": "https://kimcartoon.li"
  },
  {
   "author": "OshekharO",
@@ -218,7 +280,7 @@
   "package": "kisskh.co",
   "type": "bangumi",
   "url": "kisskh.co.js",
-  "version": "v0.0.1",
+  "version": "v0.0.2",
   "webSite": "https://kisskh.co"
  },
  {
@@ -256,6 +318,19 @@
   "url": "mangadex.org.js",
   "version": "v0.0.1",
   "webSite": "https://api.mangadex.org"
+ },
+ {
+  "author": "appdevelpo",
+  "icon": "https://www.manhuagui.com/favicon.ico",
+  "lang": "zh-cn",
+  "license": "MIT",
+  "name": "漫画柜",
+  "nsfw": "false",
+  "package": "manhuagui.com",
+  "type": "manga",
+  "url": "manhuagui.com.js",
+  "version": "v0.0.1",
+  "webSite": "https://api-manhuagui.aoihosizora.top/v1"
  },
  {
   "author": "MiaoMint",
@@ -348,6 +423,19 @@
   "webSite": "https://onejav.com"
  },
  {
+  "author": "appdevelpo",
+  "icon": "https://rawkuma.com/wp-content/uploads/2020/01/cropped-Yuna.Kuma_.Kuma_.Kuma_.Bear_.full_.2385251-32x32.png",
+  "lang": "jp",
+  "license": "MIT",
+  "name": "rawkuma",
+  "nsfw": "false",
+  "package": "rawkuma.com",
+  "type": "manga",
+  "url": "rawkuma.com.js",
+  "version": "v0.0.1",
+  "webSite": "https://rawkuma.com"
+ },
+ {
   "author": "OshekharO",
   "icon": "https://readlightnovels.net/wp-content/uploads/2020/01/rln-logo-ret.png",
   "lang": "en",
@@ -430,7 +518,7 @@
   "package": "truyen.net",
   "type": "manga",
   "url": "truyen.net.js",
-  "version": "v0.0.2",
+  "version": "v0.0.3",
   "webSite": "https://comics-api.vercel.app"
  },
  {
@@ -555,6 +643,19 @@
   "url": "xyz.xdtv2.js",
   "version": "v0.0.1",
   "webSite": "https://xdtv2.xyz/"
+ },
+ {
+  "author": "OshekharO",
+  "icon": "https://yurineko.net/img/logo-footer.png",
+  "lang": "vi",
+  "license": "MIT",
+  "name": "YuriNeko",
+  "nsfw": "false",
+  "package": "yurineko.net",
+  "type": "manga",
+  "url": "yurineko.net.js",
+  "version": "v0.0.1",
+  "webSite": "https://api.yurineko.net"
  },
  {
   "author": "OshekharO",
